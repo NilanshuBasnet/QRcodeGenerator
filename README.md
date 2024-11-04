@@ -20,10 +20,10 @@ This is a web-based application that allows users to generate QR codes from URLs
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/NilanshuBasnet/QRcodeGenerator.git
 2. Navigate to the project directory:
    ```bash
-   cd qr-code-generator
+   cd 'yourpath/QR Code'
 3. Install the required dependencies:
    ```bash
    npm install
